@@ -15,6 +15,6 @@ AI can support learning only if people can reach it through a clear, reliable in
 
 React, TypeScript, Vite and Tailwind CSS form the interface. Tests, CI and Docker support the delivery workflow. The AI functionality belongs to the wider Apoia+ platform; this case study focuses on the frontend work I contributed.
 
-## Source
+## Source and availability
 
-The frontend source is private in the ApoiaMaisTech organization. This public page shares the scope of my contribution without exposing the code.
+This repository is a written case study, not a runnable copy of the application. The frontend source is private in the ApoiaMaisTech organization. This page shares the scope of my contribution without exposing the code.
